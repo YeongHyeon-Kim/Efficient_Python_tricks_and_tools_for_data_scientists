@@ -1,5 +1,10 @@
 <div align="center">
 <h1 align="center">
+김영현식 설명으로 변경한
+
+
+<div align="center">
+<h1 align="center">
 Efficient Python Tricks and Tools for Data Scientists  
 </h3>
 
